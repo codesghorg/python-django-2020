@@ -1,0 +1,17 @@
+
+Name: Student 2
+Age: 25
+Course: Computer Science
+
+Grade Report for Student 2
+Course          Marks
+======          =====
+Python Programming          {'mark': 60, 'hours': 3}
+Network Admin          {'mark': 69, 'hours': 3}
+Internet          {'mark': 79, 'hours': 2}
+Calculus          {'mark': 68, 'hours': 1}
+Algebra          {'mark': 80, 'hours': 2}
+
+Mean scores is 71.2
+Your CWA is 70.27272727272727
+

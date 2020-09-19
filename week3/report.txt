@@ -1,0 +1,49 @@
+
+Name: Student 1
+Age: 24
+Course: Computer Science
+
+Grade Report for Student 1
+Course          Marks
+======          =====
+Python Programming          {'mark': 80, 'hours': 3}
+Network Admin          {'mark': 79, 'hours': 3}
+Internet          {'mark': 89, 'hours': 2}
+Calculus          {'mark': 78, 'hours': 1}
+Algebra          {'mark': 90, 'hours': 2}
+
+Mean scores is 83.2
+Your CWA is 83.0
+
+Name: Student 2
+Age: 25
+Course: Computer Science
+
+Grade Report for Student 2
+Course          Marks
+======          =====
+Python Programming          {'mark': 60, 'hours': 3}
+Network Admin          {'mark': 69, 'hours': 3}
+Internet          {'mark': 79, 'hours': 2}
+Calculus          {'mark': 68, 'hours': 1}
+Algebra          {'mark': 80, 'hours': 2}
+
+Mean scores is 71.2
+Your CWA is 70.27272727272727
+
+Name: Student 3
+Age: 21
+Course: Computer Science
+
+Grade Report for Student 3
+Course          Marks
+======          =====
+Python Programming          {'mark': 90, 'hours': 3}
+Network Admin          {'mark': 97, 'hours': 3}
+Internet          {'mark': 98, 'hours': 2}
+Calculus          {'mark': 87, 'hours': 1}
+Algebra          {'mark': 90, 'hours': 2}
+
+Mean scores is 92.4
+Your CWA is 93.0909090909091
+
